@@ -12,12 +12,3 @@ Note: This is NOT a job. This is an illegal activity anyone can do.
 ```
 start esx_carthief
 ```
-
-* If you want to change the stolen vehicle location update time, you have to set `Config.BlipUpdateTime` to whatever time you would like in milliseconds in `config.lua`.
-* If you want to change the number of cops online required to steal a car, you have to set `Config.CopsRequired` to the amount of cops you would like in `config.lua`.
-## Screenshots
-### In front of the marker
-![screenshot](https://i.imgur.com/BoqYPHj.jpg)
-##
-### Little explanation
-![screenshot](https://i.imgur.com/maaWc4i.jpg)
